@@ -199,5 +199,3 @@ MIT License - feel free to use this project for learning and development.
 - AI-powered food recognition concept
 
 ---
-
-**Made with ❤️ using AI**
